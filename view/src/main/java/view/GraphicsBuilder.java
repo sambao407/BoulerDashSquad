@@ -1,6 +1,8 @@
 package view;
 
+import java.awt.*;
 import java.awt.image.BufferedImage;
+import java.awt.image.ImageObserver;
 
 /**
  * Created by patri on 16/06/2017.
