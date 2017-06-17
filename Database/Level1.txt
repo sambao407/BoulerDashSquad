@@ -1,6 +1,6 @@
 Map Level 1
 22
-50
+60
 
 O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
 O C X X X R X X X X X X X X X X X X X X X X R X R X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X O 
