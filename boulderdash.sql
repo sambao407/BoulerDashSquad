@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Client :  127.0.0.1
--- Généré le :  Sam 17 Juin 2017 à 09:21
+-- Généré le :  Sam 17 Juin 2017 à 12:04
 -- Version du serveur :  5.7.14
 -- Version de PHP :  5.6.25
 
@@ -92,11 +92,11 @@ CREATE TABLE `niveau` (
 --
 
 INSERT INTO `niveau` (`ID_Level`, `Level`, `Width`, `Height`) VALUES
-(1, 'Level 1', 32, 64),
-(2, 'Level 2', 25, 70),
-(3, 'Level 3', 15, 85),
-(4, 'Level 4', 60, 20),
-(5, 'Level 5', 40, 40);
+(1, 'Level 1', 60, 22),
+(2, 'Level 2', 20, 30),
+(3, 'Level 3', 30, 15),
+(4, 'Level 4', 30, 30),
+(5, 'Level 5', 40, 20);
 
 -- --------------------------------------------------------
 
