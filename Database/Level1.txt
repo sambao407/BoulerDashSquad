@@ -1,0 +1,25 @@
+Map Level 1
+22
+50
+
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+O X X X X R X X X X X X X X X X X X X X X X R X R X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X O 
+O X X X X R R X X X X X X X X X X X X X X X R G X R X X X X X X X X X X X X X X X X X X X X X X X X R X X X X X X O 
+O X X X X X R R X X X X X X X X X X X X X X X X X R X X X X X X X X X X X X X X X X X X R R X X X X R X X X X X X O 
+O X X X X X X X X X X X X X X X X X R X X X X X X X X R X X X X X X X X X R X X X X X X X X X X X X R X R X X X X O 
+O X X X X X X X R X X X X X X X X R G R X X X X X X X R X X X X X X X W W W X X X X X X X X X X X X R X R X X X X O 
+O X X X X X X X X R X X X X X X X X X R X X X X X X X X X X X X X X X X R G X X X X X X X X X X X X X X X X X X X O 
+O X X X X X X X X X X X X X X X X X X R X X X X X X X X X X X X X X X X X R X X X X X X X X X X X X X X R X X X X O 
+O X X X X X X G X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X R R R R X X X X X X X X X X R X X X X O 
+O X X X X X X X X X X X X X X X X X X X X X X X X X X R X X X X X X X X X X R G R R X X X X X X X X X X X X X X X O 
+O X X R X X X X X X X X X X X X X X X X X X X X X X X G X X X X X X X X X X X R X X X X X X X X X X X X X R X X X O 
+O X X X X R X X X X X X X X X X X X X X X X R X R X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X O 
+O X X X R X X X X X X X X X X X X X W W W W W W W W X X X X X X X X X X R R X X X X X X X X X X X X X R X X X X X O 
+O X X X X X X X X X X X X X X X X X W X X X R X X X X W X X X X X X X X X X R U X X X X X X X R X X X X X X X X X O 
+O X X G X X X X R X X X X X X X X X W X X X R X X X X W R R X X X X X X X X X X X X X X X X R X X R X X X X X X X O 
+O X X X X X X X X X X X X X X X X X W X X X X X X X R W R X X X X X X X X X X X X X X X X X X R X X X X X X X X X O 
+O X X X X R X X X X X X X X X X X X W W W W W W W W X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X O 
+O X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X W W W X X X X X X X X X X X X O 
+O X X X X X X X X X X X X X X X X X X X X X X X X X X R R X X X X X X X X X X X X X W X W X X X X X X X X X X X X O 
+O X X X X R X X X X X X X X X X X X X X X X R X R X X X X X X X X X X X X X X X X X W W W X X X X X X X X X X X X O 
+O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
