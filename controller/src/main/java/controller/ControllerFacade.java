@@ -76,12 +76,28 @@ public class ControllerFacade implements IController {
 
     // Début du code bouchonné
 
+    /**
+     * The orderPerform method.
+     *
+     * @param userOrder
+     *            the userOrder
+     */
     public void orderPerform(UserOrder userOrder) {
     }
 
-    public void doExample(int player){
+    /**
+     * The doExample method.
+     *
+     * @param player
+     *            the player
+     */
+    public void doExample(int player) {
     }
 
+    /**
+     * The gameLoop method.
+     *
+     */
     public void gameLoop() {
     }
 }
