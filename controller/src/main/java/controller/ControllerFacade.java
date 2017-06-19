@@ -73,4 +73,15 @@ public class ControllerFacade implements IController {
     public IModel getModel() {
         return this.model;
     }
+
+    // Début du code bouchonné
+
+    public void orderPerform(UserOrder userOrder) {
+    }
+
+    public void doExample(int player){
+    }
+
+    public void gameLoop() {
+    }
 }
