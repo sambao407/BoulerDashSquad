@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="48ef4b49-0459-48a1-9a30-1acd0646d155" name="Default" comment="" />
 =======
     <list default="true" id="e2cb607a-1a6b-4b8a-8575-bdc3e1a9c1f1" name="Default" comment="">
@@ -23,6 +24,8 @@
     <ignored path="$PROJECT_DIR$/model/target/" />
     <ignored path="$PROJECT_DIR$/main/target/" />
     <ignored path="$PROJECT_DIR$/contract/target/" />
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,6 +36,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
@@ -119,6 +123,8 @@
             <state relative-caret-position="85">
               <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
               <folding />
             </state>
           </provider>
@@ -126,6 +132,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -173,12 +180,15 @@
       </branch-storage>
     </excluded-from-favorite>
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   <component name="IdeDocumentHistory">
@@ -191,6 +201,8 @@
     </option>
   </component>
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -220,10 +232,13 @@
     <panes>
       <pane id="Scratches" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="PackagesPane" />
       <pane id="Scope" />
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -293,9 +308,6 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHubDesktop/app-0.6.1/resources/app/git/cmd/git.exe" />
-    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
   </component>
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
   <component name="RunDashboard">
@@ -733,6 +745,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <changelist id="384410e6-cdb9-41e6-8db7-adb365132432" name="Default" comment="" />
       <created>1497856426415</created>
       <option name="number" value="Default" />
@@ -798,10 +811,13 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="6637000" />
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -832,6 +848,8 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -841,12 +859,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code modèle 0.1" />
     <option name="LAST_COMMIT_MESSAGE" value="Code modèle 0.1" />
   </component>
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -856,6 +877,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/main/src/main/java/main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -900,10 +922,13 @@
         <state relative-caret-position="85">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/model/src/main/java/model/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -911,10 +936,13 @@
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
 =======
           <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/model/src/main/java/model/Position.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1110,5 +1138,7 @@
       </provider>
     </entry>
 >>>>>>> 93c9bdc3131f3ad75f4c40012cbb1ea60b2d94ed
+=======
+>>>>>>> 4f6cc5a0d1e77a8dfb2835976127f1614d8d8acf
   </component>
 </project>
