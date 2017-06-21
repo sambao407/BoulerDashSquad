@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/Fenetre.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/Fenetre.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/Panneau.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/Panneau.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/viewFacade.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/viewFacade.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/test-classes/view/viewFacadeTest.class" afterPath="$PROJECT_DIR$/NewGame/view/target/test-classes/view/viewFacadeTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java" afterPath="$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BoulderDashBDDConnector.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BoulderDashBDDConnector.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/BoulderDashBDDConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,13 +45,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Connect.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Connect.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <marker date="1498033322722" expanded="true" signature="779:856" ph="SELECT * FRO... Position" />
               </folding>
             </state>
           </provider>
@@ -638,7 +635,7 @@
       <workItem from="1497959324227" duration="5929000" />
       <workItem from="1497985278474" duration="6438000" />
       <workItem from="1498029003577" duration="1252000" />
-      <workItem from="1498031737027" duration="757000" />
+      <workItem from="1498031737027" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="Connect Database To Java Done(70%)">
       <created>1497992071007</created>
@@ -651,10 +648,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14822000" />
+    <option name="totallyTimeSpent" value="14879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -670,7 +668,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -757,6 +755,7 @@
           <caret line="1" column="0" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="1" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1498033322722" expanded="true" signature="779:856" ph="SELECT * FRO... Position" />
           </folding>
         </state>
       </provider>
@@ -833,6 +832,7 @@
           <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1498033322722" expanded="true" signature="779:856" ph="SELECT * FRO... Position" />
           </folding>
         </state>
       </provider>
@@ -954,22 +954,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java">
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/BoulderDashBDDConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/BoulderDashBDDConnector.java">
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1498033322722" expanded="true" signature="779:856" ph="SELECT * FRO... Position" />
           </folding>
         </state>
       </provider>

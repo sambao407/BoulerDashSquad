@@ -13,7 +13,7 @@ public class Connect {
 
         try {
 
-            Class.forName("com.mysql.cj.jdbc.Driver");
+            Class.forName("com.mysql.jdbc.Driver");
 
             String url = "jdbc:mysql://localhost/boulderdash?useSSL=false&serverTimezone=UTC";
 
