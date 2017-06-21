@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java" afterPath="$PROJECT_DIR$/model/src/main/java/model/dao/Connect.java" />
-    </list>
+    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/contract/target/" />
@@ -635,7 +633,7 @@
       <workItem from="1497959324227" duration="5929000" />
       <workItem from="1497985278474" duration="6438000" />
       <workItem from="1498029003577" duration="1252000" />
-      <workItem from="1498031737027" duration="814000" />
+      <workItem from="1498031737027" duration="1107000" />
     </task>
     <task id="LOCAL-00001" summary="Connect Database To Java Done(70%)">
       <created>1497992071007</created>
@@ -648,10 +646,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14879000" />
+    <option name="totallyTimeSpent" value="15172000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
