@@ -15,6 +15,19 @@ public class UserOrder implements IUserOrder {
     private Order order;
 
     /**
+     * The Constructor UserOrder
+     *
+     * @param player
+     *          The player
+     * @param order
+     *          The order
+     */
+    public UserOrder(final int player, final Order order) {
+        this.player = player;
+        this.order = order;
+    }
+
+    /**
      * Gets the player.
      *
      * @return the player
