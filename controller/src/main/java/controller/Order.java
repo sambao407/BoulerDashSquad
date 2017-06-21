@@ -1,12 +1,8 @@
 package controller;
 
 /**
- * <h1>The Enumeration Order</h1>
- *
- * @author Marc ROUILLE marc.rouille@cesi.fr
- * @version 1.0
+ * Created by MPN on 19/06/2017.
  */
 public enum Order {
-    /** The Orders */
     UP, RIGHT, DOWN, LEFT
 }
