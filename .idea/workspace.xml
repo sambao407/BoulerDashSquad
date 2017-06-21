@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)" />
+    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/Fenetre.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/Fenetre.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/Panneau.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/Panneau.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/classes/view/viewFacade.class" afterPath="$PROJECT_DIR$/NewGame/view/target/classes/view/viewFacade.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewGame/view/target/test-classes/view/viewFacadeTest.class" afterPath="$PROJECT_DIR$/NewGame/view/target/test-classes/view/viewFacadeTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/contract/target/" />
@@ -632,7 +638,7 @@
       <workItem from="1497959324227" duration="5929000" />
       <workItem from="1497985278474" duration="6438000" />
       <workItem from="1498029003577" duration="1252000" />
-      <workItem from="1498031737027" duration="49000" />
+      <workItem from="1498031737027" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="Connect Database To Java Done(70%)">
       <created>1497992071007</created>
@@ -645,7 +651,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14114000" />
+    <option name="totallyTimeSpent" value="14822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
