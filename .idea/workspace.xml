@@ -34,7 +34,7 @@
       <file leaf-file-name="BoulderDashBDDConnector.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/BoulderDashBDDConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="340">
               <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -632,7 +632,7 @@
       <workItem from="1497959324227" duration="5929000" />
       <workItem from="1497985278474" duration="6438000" />
       <workItem from="1498029003577" duration="1252000" />
-      <workItem from="1498031737027" duration="14000" />
+      <workItem from="1498031737027" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="Connect Database To Java Done(70%)">
       <created>1497992071007</created>
@@ -645,7 +645,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14079000" />
+    <option name="totallyTimeSpent" value="14114000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -960,7 +960,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model/src/main/java/model/dao/BoulderDashBDDConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="340">
           <caret line="20" column="61" lean-forward="false" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
