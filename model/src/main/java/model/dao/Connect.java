@@ -1,4 +1,4 @@
-package model;
+package model.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -6,6 +6,10 @@ import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.sql.Statement;
 
+/**
+ * Connector to our Database
+ * Create by Samba
+ */
 public class Connect {
 
 
@@ -21,18 +25,20 @@ public class Connect {
 
             String password = "";
 
-
+            /**
+             * Driver manager is use for to made a link between our database and java program
+             */
             Connection conn = DriverManager.getConnection(url, user, password);
 
-            //Création d'un objet Statement
+            //Creating a Statement object
 
             Statement state = conn.createStatement();
 
-            //L'objet ResultSet contient le résultat de la requête SQL
+            //The ResultSet object contains the result of the SQL query
 
             ResultSet result = state.executeQuery("CALL Call_Niveau()");
 
-            //On récupère les MetaData
+            //We recover the MetaData
 
             ResultSetMetaData resultMeta = result.getMetaData();
 
@@ -40,7 +46,7 @@ public class Connect {
 
             System.out.println("\n**********************************");
 
-            //On affiche le nom des colonnes
+            //The column names are displayed
 
             for(int i = 1; i <= resultMeta.getColumnCount(); i++)
 
