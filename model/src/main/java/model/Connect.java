@@ -30,7 +30,7 @@ public class Connect {
 
             //L'objet ResultSet contient le résultat de la requête SQL
 
-            ResultSet result = state.executeQuery("SELECT * FROM Position, Element WHERE FK_Element = ID_Element AND FK_Level =1");
+            ResultSet result = state.executeQuery("CALL Call_Niveau()");
 
             //On récupère les MetaData
 
