@@ -4,9 +4,7 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a04d8d0d-b92d-411d-bdd3-dd000e1dbe8d" name="Default" comment="Connect Database To Java Done(70%)" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <ignored path="$PROJECT_DIR$/view/target/" />
     <ignored path="$PROJECT_DIR$/main/target/" />
@@ -695,7 +693,7 @@
       <workItem from="1497861510884" duration="45000" />
       <workItem from="1498115591408" duration="7878000" />
       <workItem from="1498158446618" duration="1719000" />
-      <workItem from="1498160760331" duration="117000" />
+      <workItem from="1498160760331" duration="712000" />
     </task>
     <task id="LOCAL-00001" summary="Add OrderPerform interface.">
       <created>1497856359928</created>
@@ -715,10 +713,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21601000" />
+    <option name="totallyTimeSpent" value="22196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
